@@ -1,6 +1,6 @@
 # OverNet
 
-**【Unofficial pytorch version】**OverNet: lightweight multi-scale super-resolution with overscaling network
+**【pytorch version】**OverNet: lightweight multi-scale super-resolution with overscaling network
 
 [OverNet Paper](https://arxiv.org/abs/2008.02382)
 
